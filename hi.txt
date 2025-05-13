@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 we are family
 Tone Tone Fhone Fhone Family
 labu labu
+=======
+we r not family Tone Tone Fhone Fhone Family
+>>>>>>> 9e8013f33dfcfd79519c0d1b8e76238bc35b38a5
+laaaaaaaaaaaa
